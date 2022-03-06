@@ -20,7 +20,7 @@ while i < 30:
     print(i)
     i = i*2
 
-
+ 
 i = 1  
 while i <= 5:    
     a = int(input( "podaj liczbę: " ))
@@ -43,3 +43,6 @@ a = 5 <= 5
 print(a)
 
 
+a = 0
+b = 3
+print(a + b)
