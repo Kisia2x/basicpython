@@ -188,3 +188,4 @@ print(txt.format(name,age,liczbaPsow))
 
 
 
+#kodowanie jest zaskakujące 
